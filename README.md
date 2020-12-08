@@ -1,11 +1,11 @@
-### Welcome to my github :blush:
+## Welcome to my github :blush:
 
 I'm Barbara, a full stack web developer with keen interest in Data Science.
 
 Currently, I'm working as a consultant @ School of applied technology </salt>
 
 
-#### Work-in-progress
+### Work-in-progress
 
 * PhysIO app - together with my mob we created an app aimed at improving physiotherapists' contact with their patients. 
    [Backend](https://github.com/MaciejGL/final-project-backend) - REST API with NodeJS, Express, Pasport, Mongoose + MongoDB  
