@@ -1,6 +1,6 @@
 ### Welcome to my github :blush:
 
-I'm Barbara A full-stack developer with keen interest in Data Science.
+I'm Barbara, a full stack web developer with keen interest in Data Science.
 
 Currently, I'm working as a consultant @ School of applied technology </salt>
 
