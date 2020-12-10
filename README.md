@@ -23,9 +23,11 @@ Currently, I'm working as a consultant @ School of applied technology </salt>
 </p>
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-zuj&theme=default&count_private=true" />
 
 <!--
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-zuj&theme=default&count_private=true" />
+
+
 
 #### Languages and tools
 <div align="center">
