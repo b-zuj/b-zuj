@@ -7,7 +7,7 @@ Currently, I'm working as a consultant @ School of applied technology </salt>
 
 ### Work-in-progress
 
-* PhysIO app - together with my mob we created an app aimed at improving physiotherapists' contact with their patients. 
+* PhysIO app - together with my mob we created an app aimed at improving physiotherapists' contact with their patients.  
    [Backend](https://github.com/MaciejGL/final-project-backend) - REST API with NodeJS, Express, Pasport, Mongoose + MongoDB  
    [Frontend](https://github.com/MaciejGL/final-project-frontend) - React, Redux  
 * Baking recipes blog - a one day hackaton project which I intend to develop into my personal recipe blog with functionalities I'm missing in most blogs out there.  
