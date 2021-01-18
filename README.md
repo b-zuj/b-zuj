@@ -39,11 +39,11 @@ Languages | Databases | Libraries | Tools
 
 <p align="center">
 <!--  <a href="https://charalambosioannou.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a> -->
- <a href="https://linkedin.com/in/barbarazujewska" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="40" style="vertical-align:top; margin:4px"></a> - linkedin.com/in/barbarazujewska <br />
- <a href="mailto:barbara@zujewska.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="email" height="40" style="vertical-align:top; margin:4px"></a> - barbara@zujewska.com
+   
+ <a href="https://linkedin.com/in/barbarazujewska" target="_blank" rel="noopener noreferrer"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40" /></a> - linkedin.com/in/barbarazujewska <br />
+
+<a href="mailto:barbara@zujewska.com"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Gmail Logo" height="40"  /></a> - barbara@zujewska.com
 </p>
-
-
 
 <!--
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b-zuj&theme=default&count_private=true" />
